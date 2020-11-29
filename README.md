@@ -1,6 +1,6 @@
 # Weathy The Weather Journal
 
-[![Showcase.gif]](/Showcase.gif)
+![Showcase.gif](/Showcase.gif)
 
 ## Table of Contents
 
