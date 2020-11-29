@@ -1,6 +1,6 @@
 # Weathy The Weather Journal
 
-[![1.gif](https://i.postimg.cc/5yxWQMfQ/1.gif)]
+[![Showcase.gif](/Showcase.gif.gif)]
 
 ## Table of Contents
 
@@ -19,7 +19,7 @@ It uses Openweather.org as the weather endpoint, and has a sleek and modern desi
 ## Technologies
 
 NodeJS was used as the server.
-HTML and Pure JS was used for the front end.
+HTML, CSS and Pure JS was used for the front end.
 
 
 ## Features
