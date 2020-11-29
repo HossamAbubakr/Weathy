@@ -10,6 +10,8 @@
 
 * [Features](#Features)
 
+* [Usage](#Usage)
+
 ## Summary
 
 Weathy is a weather journal app built using NodeJS and Javascript that I built to practice front end programming.
