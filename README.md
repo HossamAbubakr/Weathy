@@ -14,7 +14,7 @@
 
 ## Summary
 
-Weathy is a weather journal app built using NodeJS and Javascript that I built to practice front end programming.
+Weathy is a weather journal app built using NodeJS and Javascript that I built to practice front end programming as part of my udacity nanodegree.
 
 It uses Openweather.org as the weather endpoint, and has a sleek and modern design.
 
