@@ -10,7 +10,7 @@
 
 * [Features](#Features)
 
-* [Usage](#Usage)
+* [Usage and Installation](#Usage-and-Installation)
 
 ## Summary
 
@@ -48,7 +48,7 @@ HTML, CSS and Pure JS was used for the front end.
      D. Blank image for the temp condition as an empty src tag would result in a broken image icon.
 		 
 
-## Usage
+## Usage and Installation
 
 You can get the project up and running in 3 simple steps.
 
