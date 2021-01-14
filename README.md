@@ -18,6 +18,8 @@ Weathy is a weather journal app built using NodeJS and Javascript that I built t
 
 It uses Openweather.org as the weather endpoint, and has a sleek and modern design.
 
+It domenstrates my ability to create and deploy a NodeJs server, and create and attach a UI to it and be able to use promises and async calls to an API
+
 ## Technologies
 
 NodeJS was used as the server.
