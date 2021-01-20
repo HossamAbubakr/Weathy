@@ -60,7 +60,7 @@ npm install
 ```
 
 2. Supply your own API key in app.js.
-```
+```javascript
 const apiKey = ""; /* Enter your API key here */
 ```
 3. Use The follow command to start the server and voila!
