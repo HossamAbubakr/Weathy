@@ -1,6 +1,8 @@
 # Weathy The Weather Journal
 
-![Showcase.gif](/Showcase.gif)
+<p align="center">
+  <img src="https://github.com/HossamAbubakr/Weathy/raw/main/Showcase.gif">
+</p>
 
 ## Table of Contents
 
